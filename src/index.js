@@ -22,7 +22,7 @@ function Cv() {
   return <div>
       <header>
           <div className="user">
-              <img src="https://raw.githubusercontent.com/obaidmuneer/my_new_cv/main/img/pic1.jpg" />
+                <img src="https://raw.githubusercontent.com/obaidmuneer/my_new_cv/main/img/pic1.jpg" alt="Pics" />
                   <h3 className="name">Obaid Muneer</h3>
                   <p className="post">This is Obaid Muneer</p>
           </div>
