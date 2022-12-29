@@ -1,6 +1,6 @@
 # Getting Start 
 ## Projects I have/am worked/working on 
-My CV React based [Click Here](https://animated-bonbon-7e0e24.netlify.app).<br/>
+My CV React based [Click Here](https://obaid-muneer-cv.netlify.app).<br/>
 Color Flipper Side JS Based [Click Here](https://obaidmuneer.github.io/color-flipper/) [Source Code](https://github.com/obaidmuneer/color-flipper).<br/>
 TODO JS Based [Click Here](https://obaidmuneer.github.io/todo/) [Source Code](https://github.com/obaidmuneer/todo).<br/>
 Prayer Timing App JS Based [Click Here](https://obaidmuneer.github.io/prayer-timing/) [Source Code](https://github.com/obaidmuneer/prayer-timing).<br/>
