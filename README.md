@@ -1,43 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Getting Start 
+## Projects I have/am worked/working on 
+My CV React based [Click Here](https://animated-bonbon-7e0e24.netlify.app)
+Color Flipper Side JS Based [Click Here](https://obaidmuneer.github.io/color-flipper/) [Source Code](https://github.com/obaidmuneer/color-flipper) 
+TODO JS Based [Click Here](https://obaidmuneer.github.io/todo/) [Source Code](https://github.com/obaidmuneer/todo) 
+Prayer Timing App JS Based [Click Here](https://obaidmuneer.github.io/prayer-timing/) [Source Code](https://github.com/obaidmuneer/prayer-timing) 
+Weather App JS Based [Click Here](https://obaidmuneer.github.io/weather-app/) [Source Code](https://github.com/obaidmuneer/weather-app) 
+Clone of air.sysborg.com (JS ,Mongo DB , express)[Click Here](https://obaidmuneer.github.io/cloud-todo/) [Source Code](https://github.com/obaidmuneer/cloud-todo)
+Clone of air.sysborg.com React based[Click Here](https://lighthearted-lily-2db6b4.netlify.app/) [Source Code](https://github.com/obaidmuneer/react-todo)
+Weather App React Based [Click Here](https://weather-app-d348f.web.app) [Source Code](https://github.com/obaidmuneer/react-weather-app) 
+Counter and Data Manupulation using React Context API [Click Here](https://react-context-28bc3.web.app) [Source Code](https://github.com/obaidmuneer/react-context)
+Realtime Chatapp (MERN, Socket.io) [Click Here](https://react-chatapp-aaa1f.web.app) [Source Code](https://github.com/obaidmuneer/react-chatapp) 
+Not Just Attendance App (MERN)(MUI) [Click Here](https://attendance-management-1db00.web.app) Source Code is private
 
 ## Learn More
 
