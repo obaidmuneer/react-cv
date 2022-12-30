@@ -10,8 +10,7 @@ Clone of air.sysborg.com React based[Click Here](https://lighthearted-lily-2db6b
 Weather App React Based [Click Here](https://weather-app-d348f.web.app) [Source Code](https://github.com/obaidmuneer/react-weather-app)<br/> 
 Counter and Data Manupulation using React Context API [Click Here](https://react-context-28bc3.web.app) [Source Code](https://github.com/obaidmuneer/react-context)<br/>
 Realtime Chatapp (MERN, Socket.io) [Click Here](https://react-chatapp-aaa1f.web.app) [Source Code](https://github.com/obaidmuneer/react-chatapp)<br/>
-Not Just Attendance App (MERN)(MUI) [Click Here](https://attendance-management-1db00.web.app) Source Code is private<br/>
+Attendance App (MERN)(MUI) [Click Here](https://attendance-management-1db00.web.app) Source Code is private<br/> (working)
 
-Contact me : obaidmuneer5@gmail.com
-
-whatsapp: +923133853852
+Contact me : obaidmuneer55@gmail.com
+phone no/whatsapp: +923133853852
